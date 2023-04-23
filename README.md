@@ -1,5 +1,4 @@
 # bmi-js
-# bmi
 
 Determination of bmi as well as obesity or thinness
 
